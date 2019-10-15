@@ -1,0 +1,4 @@
+PATE_revised/*.h5
+.ipynb_checkpoints/
+.vscode/
+venv/
